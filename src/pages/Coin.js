@@ -1,7 +1,7 @@
 import axios from 'axios'
 import { useParams } from 'react-router-dom'
 import React, { useState, useEffect } from 'react'
-import DOMPurify from 'dompurify'
+ 
 
 import './Coin.css'
 
